@@ -8,8 +8,8 @@ const Filters = {
 
 const state = {
     todos: [
-        new Todo('Aprender JavaScript'),
-        new Todo('Aprender Vue.js'),
+        new Todo('Aprender Typescript'),
+        new Todo('Aprender Next.js'),
         new Todo('Aprender React'),
         new Todo('Aprender Vite'),
     ],
